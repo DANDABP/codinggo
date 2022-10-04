@@ -2059,8 +2059,9 @@ chat {font-family: Arial, Helvetica, sans-serif;}
   display: none;
   position: fixed;
   bottom: 0;
-  right: 75px;
-  border: 3px solid #012970;
+  right: 100px;
+  bottom: 23px;
+  border: 2px solid #012970;
   z-index: 9;
 }
 
