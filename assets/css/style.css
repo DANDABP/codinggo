@@ -117,8 +117,8 @@ section {
   position: fixed;
   visibility: hidden;
   opacity: 0;
-  right: 15px;
-  bottom: 15px;
+  right: 28px;
+  bottom: 23px;
   z-index: 99999;
   background: #012970;
   width: 40px;
@@ -2042,7 +2042,7 @@ chat {font-family: Arial, Helvetica, sans-serif;}
 
 /* Button used to open the chat form - fixed at the bottom of the page */
 .open-button {
-  background-color: #555;
+  background-color: #012970;
   color: white;
   padding: 16px 20px;
   border: none;
@@ -2050,8 +2050,8 @@ chat {font-family: Arial, Helvetica, sans-serif;}
   opacity: 0.8;
   position: fixed;
   bottom: 23px;
-  right: 28px;
-  width: 280px;
+  right: 75px;
+  width: 300px;
 }
 
 /* The popup chat - hidden by default */
@@ -2059,7 +2059,7 @@ chat {font-family: Arial, Helvetica, sans-serif;}
   display: none;
   position: fixed;
   bottom: 0;
-  right: 15px;
+  right: 75px;
   border: 3px solid #f1f1f1;
   z-index: 9;
 }
