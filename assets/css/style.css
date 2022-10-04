@@ -121,8 +121,8 @@ section {
   bottom: 23px;
   z-index: 99999;
   background: #012970;
-  width: 40px;
-  height: 40px;
+  width: 56px;
+  height: 56px;
   border-radius: 4px;
   transition: all 0.4s;
 }
@@ -2047,10 +2047,10 @@ chat {font-family: Arial, Helvetica, sans-serif;}
   padding: 16px 20px;
   border: none;
   cursor: pointer;
-  opacity: 0.8;
+  /* opacity: 0.8; */
   position: fixed;
   bottom: 23px;
-  right: 75px;
+  right: 100px;
   width: 300px;
 }
 
@@ -2060,7 +2060,7 @@ chat {font-family: Arial, Helvetica, sans-serif;}
   position: fixed;
   bottom: 0;
   right: 75px;
-  border: 3px solid #f1f1f1;
+  border: 3px solid #012970;
   z-index: 9;
 }
 
@@ -2090,19 +2090,19 @@ chat {font-family: Arial, Helvetica, sans-serif;}
 
 /* Set a style for the submit/send button */
 .form-container .btn {
-  background-color: #04AA6D;
+  background-color: #43936C;
   color: white;
   padding: 16px 20px;
   border: none;
   cursor: pointer;
   width: 100%;
   margin-bottom:10px;
-  opacity: 0.8;
+  /* opacity: 0.8; */
 }
 
 /* Add a red background color to the cancel button */
 .form-container .cancel {
-  background-color: red;
+  background-color: #CB3A31;
 }
 
 /* Add some hover effects to buttons */
