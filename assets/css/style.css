@@ -2047,12 +2047,13 @@ chat {font-family: Arial, Helvetica, sans-serif;}
   padding: 16px 20px;
   border-radius: 4px;
   border: none;
+  text-align: center;
   cursor: pointer;
   /* opacity: 0.8; */
   position: fixed;
   bottom: 23px;
   right: 100px;
-  width: 300px;
+  width: 250px;
 }
 
 /* The popup chat - hidden by default */
