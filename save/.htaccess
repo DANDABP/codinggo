@@ -1,0 +1,6 @@
+
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^codinggo\.id$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.codinggo\.id$
+RewriteRule ^/?$ "http\:\/\/codinggo\.id\/" [R=301,L]
+
