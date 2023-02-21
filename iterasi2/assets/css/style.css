@@ -1827,3 +1827,62 @@ section {
     padding: 2px 0;
   }
 }
+
+
+.logo1 {
+  font-size: 30px;
+  margin: 0;
+  padding: 0;
+  line-height: 1;
+  font-weight: 600;
+  letter-spacing: 0.8px;
+  font-family: "Poppins", sans-serif;
+}
+
+.logo1 a {
+  color: #222222;
+}
+
+.logo1 a span {
+  color: #012970;
+}
+
+.logo1 img {
+  max-height: 80px;
+  padding-bottom: 10px;
+}
+
+.error-404 {
+  padding: 30px;
+}
+
+.error-404 h7 {
+  font-size: 180px;
+  font-weight: 700;
+  color: #4154f1;
+  margin-bottom: 0;
+  line-height: 150px;
+}
+
+.error-404 h8 {
+  font-size: 24px;
+  font-weight: 700;
+  color: #012970;
+  margin-bottom: 30px;
+}
+
+.error-404 .btn {
+  background: #4154f1;
+  color: #fff;
+  padding: 8px 30px;
+}
+
+.error-404 .btn:hover {
+  background: #3747d1;
+}
+
+@media (min-width: 992px) {
+  .error-404 img {
+    max-width: 50%;
+  }
+}

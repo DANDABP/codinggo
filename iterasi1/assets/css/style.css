@@ -2051,8 +2051,8 @@ chat {font-family: Arial, Helvetica, sans-serif;}
   cursor: pointer;
   /* opacity: 0.8; */
   position: fixed;
-  bottom: 23px;
-  right: 100px;
+  bottom: 90px;
+  right: 28px;
   width: 56px;
 }
 .open-button:hover {
